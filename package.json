@@ -1,0 +1,28 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "description": "Proyecto de prueba, integrando nodejs y socketio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doyomay/elRivalMasdebil.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "socketio"
+  ],
+  "author": "Gerardo May",
+  "license": "apache v2",
+  "bugs": {
+    "url": "https://github.com/doyomay/elRivalMasdebil/issues"
+  },
+  "homepage": "https://github.com/doyomay/elRivalMasdebil",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-stylus": "^0.20.0"
+  }
+}
