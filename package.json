@@ -23,6 +23,16 @@
   "homepage": "https://github.com/doyomay/elRivalMasdebil",
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-contrib-stylus": "^0.20.0"
+    "grunt-browser-sync": "^1.9.1",
+    "grunt-contrib-stylus": "^0.20.0",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.3.3",
+    "express": "^4.11.2",
+    "express-session": "^1.10.2",
+    "hogan-express": "^0.5.2",
+    "socket.io": "^1.3.3"
   }
 }
